@@ -1,0 +1,16 @@
+{
+  "name": "CliniPet Veterinária e PetShop",
+  "short_name": "CliniPet",
+  "description": "Clínica veterinária e pet shop no Buritis, Belo Horizonte.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8FCF8",
+  "theme_color": "#0B3D23",
+  "icons": [
+    { "src": "img/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "img/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "img/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
